@@ -23,7 +23,9 @@ image; https://docs.google.com/document/d/19ha4-zM7q5EV2hHK_tfRLzqlfgxNRdK4hUwkq
 
 ### Reference
 
-Danielsson F, Skogs M, Huss M, Rexhepaj E, O'Hurley G, Klevebring D, Pontén F, Gad AK, Uhlén M, Lundberg E. Majority of differentially expressed genes are down-regulated during malignant transformation in a four-stage model. Proc Natl Acad Sci U S A. 2013, 23;110(17):6853-8.
-Gilbert SF. Developmental Biology. 6th edition. Sunderland (MA): Sinauer Associates; 2000. Differential Gene Expression. Available from: https://www.ncbi.nlm.nih.gov/books/NBK10061/
-Das S, Dey MK, Devireddy R, Gartia MR. Biomarkers in Cancer Detection, Diagnosis, and Prognosis. Sensors (Basel). 2023, 20;24(1):37. 
+1. Danielsson F, Skogs M, Huss M, Rexhepaj E, O'Hurley G, Klevebring D, Pontén F, Gad AK, Uhlén M, Lundberg E. Majority of differentially expressed genes are down-regulated during malignant transformation in a four-stage model. Proc Natl Acad Sci U S A. 2013, 23;110(17):6853-8.
+
+2. Gilbert SF. Developmental Biology. 6th edition. Sunderland (MA): Sinauer Associates; 2000. Differential Gene Expression. Available from: https://www.ncbi.nlm.nih.gov/books/NBK10061/
+   
+3. Das S, Dey MK, Devireddy R, Gartia MR. Biomarkers in Cancer Detection, Diagnosis, and Prognosis. Sensors (Basel). 2023, 20;24(1):37. 
 
