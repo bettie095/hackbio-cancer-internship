@@ -1,4 +1,4 @@
-###Differential Expression: Downregulation and Upregulation in Cancer Biomarker Discovery<a id="Differential Expression: Downregulation and Upregulation in Cancer Biomarker Discovery"></a>
+###Differential Expression: Downregulation and Upregulation in Cancer Biomarker Discovery<a id="Differential Expression: Downregulation-and-Upregulation-in-Cancer-Biomarker-Discovery"></a>
 Author (@slack): Elizabeth Abodunrin(@Bettie_95)
 
 #Differential gene expression (DGE)
