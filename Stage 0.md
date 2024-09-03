@@ -3,7 +3,7 @@ Author (@slack): Elizabeth Abodunrin(@Bettie_95)
 
 ### Differential gene expression (DGE)
 
-Is the process where different genes are activated in a cell, giving that cell a specific purpose that defines its function. Differential gene expression analysis is an RNA-seq technology where the gene expression of cells is evaluated, quantified, and compared. DGE analysis determines which genes are actively being expressed, how often those genes are being expressed, and which genes are silenced. Running a DGE analysis on cells from individuals with certain medical conditions, like cancer, may help elucidate what causes cancer and how to treat it <sup></sup> 1 (<sub></sub>.
+Is the process where different genes are activated in a cell, giving that cell a specific purpose that defines its function. Differential gene expression analysis is an RNA-seq technology where the gene expression of cells is evaluated, quantified, and compared. DGE analysis determines which genes are actively being expressed, how often those genes are being expressed, and which genes are silenced. Running a DGE analysis on cells from individuals with certain medical conditions, like cancer, may help elucidate what causes cancer and how to treat it <span style="vertical-align: baseline; position: relative;top: -0.5em;>1</span>.
 
 ### Upregulation 
 
