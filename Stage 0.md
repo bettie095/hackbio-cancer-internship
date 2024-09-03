@@ -3,11 +3,11 @@ Author (@slack): Elizabeth Abodunrin(@Bettie_95)
 
 ### Differential gene expression (DGE)
 
-Is the process where different genes are activated in a cell, giving that cell a specific purpose that defines its function. Differential gene expression analysis is an RNA-seq technology where the gene expression of cells is evaluated, quantified, and compared. DGE analysis determines which genes are actively being expressed, how often those genes are being expressed, and which genes are silenced. Running a DGE analysis on cells from individuals with certain medical conditions, like cancer, may help elucidate what causes cancer and how to treat it <span style="vertical-align: baseline; position: relative;top: -0.5em;>1</span>.
+Is the process where different genes are activated in a cell, giving that cell a specific purpose that defines its function. Differential gene expression analysis is an RNA-seq technology where the gene expression of cells is evaluated, quantified, and compared. DGE analysis determines which genes are actively being expressed, how often those genes are being expressed, and which genes are silenced. Running a DGE analysis on cells from individuals with certain medical conditions, like cancer, may help elucidate what causes cancer and how to treat it(1).
 
 ### Upregulation 
 
-Upregulation refers to the increase in gene expression levels  in a particular condition, leading to higher production of its corresponding protein. In cancer, upregulation of certain genes may drive oncogenesis by promoting cell proliferation, inhibiting apoptosis, or enhancing metastatic potential. For example, the gene HER2 is upregulated in some breast cancers, leading to aggressive tumor growth. The discovery of HER2 upregulation has not only led to a better understanding of breast cancer biology but also to the development of targeted therapies like trastuzumab (Herceptin), which specifically inhibits HER2 and improves patient outcomes <sup></sup> 2 (<sub></sub>. 
+Upregulation refers to the increase in gene expression levels  in a particular condition, leading to higher production of its corresponding protein. In cancer, upregulation of certain genes may drive oncogenesis by promoting cell proliferation, inhibiting apoptosis, or enhancing metastatic potential. For example, the gene HER2 is upregulated in some breast cancers, leading to aggressive tumor growth. The discovery of HER2 upregulation has not only led to a better understanding of breast cancer biology but also to the development of targeted therapies like trastuzumab (Herceptin), which specifically inhibits HER2 and improves patient outcomes(2). 
 
 ### Downregulation 
 
@@ -17,7 +17,7 @@ image; https://docs.google.com/document/d/19ha4-zM7q5EV2hHK_tfRLzqlfgxNRdK4hUwkq
 
 ### Biomarkers 
 
-Biomarkers are vital in healthcare as they provide valuable insights into disease diagnosis, prognosis, treatment response, and personalized medicine. They also guide treatment decisions by predicting disease outcomes and facilitating individualized treatment plans. Advanced techniques such as RNA sequencing (RNA-seq) have revolutionized differential expression studies. RNA-seq allows for the identification of novel biomarkers and therapeutic targets <sup></sup> 3 (<sub></sub>.
+Biomarkers are vital in healthcare as they provide valuable insights into disease diagnosis, prognosis, treatment response, and personalized medicine. They also guide treatment decisions by predicting disease outcomes and facilitating individualized treatment plans. Advanced techniques such as RNA sequencing (RNA-seq) have revolutionized differential expression studies. RNA-seq allows for the identification of novel biomarkers and therapeutic targets(3).
 
 ###Conclusion
 
